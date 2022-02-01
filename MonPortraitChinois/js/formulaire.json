@@ -1,9 +1,0 @@
-[
-
-    {
-        "forName" : "image",
-        "indication" : "Si vous voulez mettre une image :)",
-        "type" : "url",
-        "placeholder" : "ex : https://picsum.photos/200/300"
-    }
-]
